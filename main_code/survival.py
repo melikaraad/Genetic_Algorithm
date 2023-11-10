@@ -1,4 +1,4 @@
-from Genetic_Algorithm import n_population, population
+from initpopulation import n_population, population
 from recombination import offspring
 
 def survival(population,offspring,n_population):
